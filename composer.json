@@ -1,0 +1,19 @@
+{
+    "name": "gabrielmoura/Laravel-AuthSSL",
+    "description": "Laravel 5 Client Certificate auth",
+    "keywords": ["laravel", "auth", "x509", "certificate"],
+    "require": {
+        "php": "7.0"
+    },"autoload": {
+        "psr-4": {
+            "Gabrielmoura\\Laravel-AuthSSL\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gabriel Moura",
+            "email": "gabriel.all@yandex.com"
+        }
+    ]
+}
